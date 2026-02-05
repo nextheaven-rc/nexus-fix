@@ -496,4 +496,4 @@ try {
 }
 
 # Final output
-Write-Host "(Game Over)"
+Write-Host "Nexus Hub v4.2"
